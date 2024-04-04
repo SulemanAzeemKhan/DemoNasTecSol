@@ -1,1 +1,8 @@
-
+{"Login":{
+    "statuscode": 200,
+    "statusMessage": "Success",
+    "data": {
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2MGVlNzZmMDIzN2Q2OTU4MmFiMTU0MCIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTcxMjI1Mjc4NCwiZXhwIjoxNzEyMzM5MTg0fQ.dNwpCoYSr7UpdeGlNALVDaYdphRh96mcq713FgRKGH4"
+    }
+}
+}
